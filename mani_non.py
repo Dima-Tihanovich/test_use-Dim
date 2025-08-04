@@ -1,0 +1,6 @@
+print('oooooooooooooooooooo')
+print('dddddddddddddddddddd')
+print('asdasdasffwef2ef')
+print("afeg")
+print('3123')
+print('1412')
