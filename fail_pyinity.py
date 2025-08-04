@@ -3,3 +3,6 @@ def user(use_1, use_2):
     return chek_aut
 
 print(user('Deny', 'Stive'))
+
+def meni():
+    print('meni')
