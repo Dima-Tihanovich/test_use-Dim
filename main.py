@@ -1,0 +1,15 @@
+print("Helloo000000000ooooooo.!")
+print('Dim krasavchik = )')
+
+
+def mess():
+    print('useeeeeeee')
+
+def user(use_1, use_2):
+    chek_aut = use_1 + ' ' + use_2
+    return chek_aut
+
+print(user('Deny', 'Stive'))
+
+def meni():
+    print('meni')
