@@ -13,3 +13,5 @@ print(user('Deny', 'Stive'))
 
 def meni():
     print('meni')
+
+print("Hello ))))))")
